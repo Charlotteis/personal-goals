@@ -8,35 +8,31 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 # Overarching Goals
 1. Contribute to Open Source
 2. Write more blog posts
-3. Use _______ more
-4. Get better at _______
-5. Learn about _______
+3. Get more confident with JavaScript
+4. Make more small and cool throwaway things
+5. Work less
 6. Be kind
 
-# November 00, 2014
+# November 23rd, 2015
 
-### This Week's Goal: Be Awesome.
+### This Week's Goal: Work less.
 
 ## Things I'll Do This Week:
-- [x] Play with puppies
-- [ ] Watch 2 videos from my content list about ______
-- [ ] Write a blog post
-- [ ] Continue learning about narwhals
-- [ ] Create slides for my talk about music
-- [ ] Send Una a nice email (una.kravets@gmail.com)
-- [x] Read [this blog post](http://una.github.io/personal-goals-guide/)
+- [ ] Write a Pull Request Guide for the [Hoodie Editorial Team](http://github.com/hoodiehq/editorial)
+- [x] Open Source my Personal Goals
+- [ ] Finish writing my lightning talk on Your First PR for [Codebar](http://ti.to/codebar/24-pull-requests-2015)
+- [ ] Read [this blog post](http://una.github.io/personal-goals-guide/)
+- [x] Watch Jessica Jones
+- [ ] Get to level 12 in Fallout 4
 
 ### Things I'll Do This Month: November 2014
-- [ ] Read a book
-- [x] Create a website for my dog
-- [ ] Teach my dog how to fetch me beer
-- [ ] Build a castle out of cardboard
-- [ ] Submit a proposal for a thing
-- [ ] Come up with a new side project
+- [ ] Don't schedule anything as it's the 26th and the month is almost over.
 
-### Backlog: Side Projects :)
-- [ ] Work on [my cool project I forgot about](http://google.com)
+### Things I'll do in the Future :rocket:
 
-### Backlog: Code Things I Want to Do/Play With
-1. Create yeoman generator
-2. Build a robot that takes over the world
+- [ ] Learn React
+- [ ] Contribute code to Hoodie
+- [ ] Find more places to talk about Your First PR
+
+### Backlog:
+- [Videos, Books and Articles to consume](https://github.com/Charlotteis/personal-goals/tree/master/content-list)
