@@ -21,7 +21,7 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [ ] Write a Pull Request Guide for the [Hoodie Editorial Team](http://github.com/hoodiehq/editorial)
 - [x] Open Source my Personal Goals
 - [ ] Finish writing my lightning talk on Your First PR for [Codebar](http://ti.to/codebar/24-pull-requests-2015)
-- [ ] Read [this blog post](http://una.github.io/personal-goals-guide/)
+- [x] Read [this blog post](http://una.github.io/personal-goals-guide/)
 - [x] Watch Jessica Jones
 - [ ] Get to level 12 in Fallout 4
 
