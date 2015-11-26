@@ -1,4 +1,5 @@
 - Why Ember is not accessible for Beginners
 - Success of open sourcing my personal goals
 - Thoughts on the Hoodie Editorial Team
-- Your First PR
+- Your First PR - What it is
+- The many emotions of Open Source
