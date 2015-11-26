@@ -25,7 +25,7 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [x] Watch Jessica Jones
 - [ ] Get to level 12 in Fallout 4
 
-### Things I'll Do This Month: November 2014
+### Things I'll Do This Month: November 2015
 - [ ] Don't schedule anything as it's the 26th and the month is almost over.
 
 ### Things I'll do in the Future :rocket:
