@@ -23,7 +23,7 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [ ] Finish writing my lightning talk on Your First PR for [Codebar](http://ti.to/codebar/24-pull-requests-2015)
 - [x] Read [this blog post](http://una.github.io/personal-goals-guide/)
 - [x] Watch Jessica Jones
-- [ ] Get to level 12 in Fallout 4
+- [x] Get to level 12 in Fallout 4
 
 ### Things I'll Do This Month: November 2015
 - [ ] Don't schedule anything as it's the 26th and the month is almost over.
