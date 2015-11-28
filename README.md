@@ -20,17 +20,16 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 ## Things I'll Do This Week:
 - [ ] Write a Pull Request Guide for the [Hoodie Editorial Team](http://github.com/hoodiehq/editorial)
 - [x] Open Source my Personal Goals
-- [ ] Finish writing my lightning talk on Your First PR for [Codebar](http://ti.to/codebar/24-pull-requests-2015)
+- [x] Finish writing my lightning talk on Your First PR for [Codebar](http://ti.to/codebar/24-pull-requests-2015)
 - [x] Read [this blog post](http://una.github.io/personal-goals-guide/)
 - [x] Watch Jessica Jones
 - [x] Get to level 12 in Fallout 4
-- [ ] Write weekly personal goals summary
+- [x] Write weekly personal goals summary
 
 ### Things I'll Do This Month: November 2015
 - [ ] Don't schedule anything as it's the 26th and the month is almost over.
 
 ### Things I'll do in the Future :rocket:
-
 - [ ] Learn React
 - [ ] Contribute code to Hoodie
 - [ ] Find more places to talk about Your First PR
