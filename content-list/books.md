@@ -4,3 +4,4 @@
 - [ ] [Hello Ruby](http://helloruby.com)
 - [ ] The Naked Lunch
 - [ ] [Exploring ES6](http://exploringjs.com/es6)
+- [ ] [Speaking JS (ES5)](http://speakingjs.com/)
