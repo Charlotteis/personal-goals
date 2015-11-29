@@ -1,4 +1,4 @@
-Personal Goals
+Personal Goals :star2:
 ==============
 
 Personal goals made open source.
@@ -13,26 +13,39 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 5. Work less
 6. Be kind
 
-# November 23rd, 2015
+# November 30th, 2015
 
-### This Week's Goal: Work less.
+### This Week's Goal: Work less. :sleeping:
 
 ## Things I'll Do This Week:
 - [ ] Write a Pull Request Guide for the [Hoodie Editorial Team](http://github.com/hoodiehq/editorial)
-- [x] Open Source my Personal Goals
-- [x] Finish writing my lightning talk on Your First PR for [Codebar](http://ti.to/codebar/24-pull-requests-2015)
-- [x] Read [this blog post](http://una.github.io/personal-goals-guide/)
-- [x] Watch Jessica Jones
-- [x] Get to level 12 in Fallout 4
-- [x] Write weekly personal goals summary
+- [ ] Make sure my slides are reading for my talk on Saturday
+- [ ] Give my talk [at codebar on Saturday](https://codebar.io/events/24-pull-requests-2015)
+- [ ] Schedule some tweets for YFPR
+- [ ] Shout outs for 24PR on YFPR
+- [ ] Read Chapters 5 & 6 of [Exploring JS (ES6)](http://exploringjs.com)
+- [ ] Watch 2 Conference Talks
+- [ ] Get to level 16 in Fallout 4
+- [ ] Go through all of my notes from BeyondConf
+- [ ] Ask about [redacted] conf
+- [ ] Come up with some ideas for [Javascripthers](http://twitter.com/javascripthers)
+- [ ] Start a 'tutorials' content list and start to add it to (ServiceWorkers etc.)
+- [ ] Write weekly personal goals summary
 
-### Things I'll Do This Month: November 2015
-- [ ] Don't schedule anything as it's the 26th and the month is almost over.
+### Things I'll Do This Month: December 2015
+- [ ] Polish YFPR Talk and find places to give it next year
+- [ ] Learn ES6
+- [ ] Continue to support the Hoodie Editorial team
+- [ ] Buy Christmas presents for everyone :disappointed:
+- - [ ] Work Less
+
 
 ### Things I'll do in the Future :rocket:
 - [ ] Learn React
 - [ ] Contribute code to Hoodie
 - [ ] Find more places to talk about Your First PR
+- [ ] Learn ES6
+- [ ] Play with [p5.js](http://p5js.org/)
 
 ### Backlog:
 - [Videos, Books and Articles to consume](https://github.com/Charlotteis/personal-goals/tree/master/content-list)
