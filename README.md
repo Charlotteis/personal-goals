@@ -21,13 +21,13 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [ ] Write a Pull Request Guide for the [Hoodie Editorial Team](http://github.com/hoodiehq/editorial)
 - [ ] Make sure my slides are reading for my talk on Saturday
 - [ ] Give my talk [at codebar on Saturday](https://codebar.io/events/24-pull-requests-2015)
-- [ ] Schedule some tweets for YFPR
+- [x] Schedule some tweets for YFPR
 - [ ] Shout outs for 24PR on YFPR
-- [ ] Read Chapters 5 & 6 of [Exploring JS (ES6)](http://exploringjs.com)
+- [x] Read Chapters 5 & 6 of [Exploring JS (ES6)](http://exploringjs.com)
 - [ ] Watch 2 Conference Talks
-- [ ] Get to level 16 in Fallout 4
+- [x] Get to level 16 in Fallout 4
 - [ ] Go through all of my notes from BeyondConf
-- [ ] Ask about [redacted] conf
+- [x] Ask about [redacted] conf
 - [ ] Come up with some ideas for [Javascripthers](http://twitter.com/javascripthers)
 - [ ] Start a 'tutorials' content list and start to add it to (ServiceWorkers etc.)
 - [ ] Write weekly personal goals summary
@@ -37,7 +37,7 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [ ] Learn ES6
 - [ ] Continue to support the Hoodie Editorial team
 - [ ] Buy Christmas presents for everyone :disappointed:
-- - [ ] Work Less
+- [ ] Work Less
 
 
 ### Things I'll do in the Future :rocket:
