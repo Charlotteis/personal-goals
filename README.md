@@ -29,7 +29,7 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [ ] Go through all of my notes from BeyondConf
 - [x] Ask about [redacted] conf
 - [ ] Come up with some ideas for [Javascripthers](http://twitter.com/javascripthers)
-- [ ] Start a 'tutorials' content list and start to add it to (ServiceWorkers etc.)
+- [x] Start a 'tutorials' content list and start to add it to (ServiceWorkers etc.)
 - [ ] Write weekly personal goals summary
 
 ### Things I'll Do This Month: December 2015
@@ -49,3 +49,4 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 
 ### Backlog:
 - [Videos, Books and Articles to consume](https://github.com/Charlotteis/personal-goals/tree/master/content-list)
+- [Tutorials I'd like to do](https://github.com/Charlotteis/personal-goals/blob/master/content-list/tutorials.md)
