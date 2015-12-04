@@ -19,10 +19,10 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 
 ## Things I'll Do This Week:
 - [ ] Write a Pull Request Guide for the [Hoodie Editorial Team](http://github.com/hoodiehq/editorial)
-- [ ] Make sure my slides are reading for my talk on Saturday
+- [x] Make sure my slides are reading for my talk on Saturday
 - [ ] Give my talk [at codebar on Saturday](https://codebar.io/events/24-pull-requests-2015)
 - [x] Schedule some tweets for YFPR
-- [ ] Shout outs for 24PR on YFPR
+- [x] Shout outs for 24PR on YFPR
 - [x] Read Chapters 5 & 6 of [Exploring JS (ES6)](http://exploringjs.com)
 - [ ] Watch 2 Conference Talks
 - [x] Get to level 16 in Fallout 4
