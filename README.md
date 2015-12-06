@@ -47,5 +47,5 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [ ] Learn how to be a codebar.io coach and start attending their events
 
 ### Backlog:
-- [Videos, Books and Articles to consume](https://github.com/Charlotteis/personal-goals/tree/master/content-list)
+- [Videos I'd like to watch](https://github.com/Charlotteis/personal-goals/blob/master/content-list/videos.md)
 - [Tutorials I'd like to do](https://github.com/Charlotteis/personal-goals/blob/master/content-list/tutorials.md)
