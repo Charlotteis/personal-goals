@@ -17,3 +17,5 @@
 - [ ] [Learn RegEx with DWYL](https://github.com/dwyl/learn-regex)
 - [ ] [Flexbox Froggy](http://flexboxfroggy.com/)
 - [ ] [Twitter API with CodeCademy](https://www.codecademy.com/en/tracks/twitter)
+- [ ] [HTTP Requests, AJAX and APIs](http://tutorials.codebar.io/js/lesson4/tutorial.html)
+- [ ] [HTTP Requests, AJAX and APIs (part 2)](http://tutorials.codebar.io/js/lesson5/tutorial.html)
