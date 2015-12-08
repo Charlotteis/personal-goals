@@ -13,7 +13,7 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 5. Work less
 6. Be kind
 
-# Deceber 7th, 2015
+# December 7th, 2015
 
 ### This Week's Goal: Work less. :sleeping:
 
