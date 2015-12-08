@@ -2,7 +2,7 @@
 
 ## Computers :computer:
 
-- [ ] [So how does the browser actually render a website](https://www.youtube.com/watch?v=SmE4OwHztCc&index=27&list=PL37ZVnwpeshH37NxpV6XbgdDpY-w48hMd) - Ryan Seddon
+- [x] [So how does the browser actually render a website](https://www.youtube.com/watch?v=SmE4OwHztCc&index=27&list=PL37ZVnwpeshH37NxpV6XbgdDpY-w48hMd) - Ryan Seddon
 - [ ] [What it’s like to live on the Edge](https://www.youtube.com/watch?v=Ju8x3z1LuCg&index=28&list=PL37ZVnwpeshH37NxpV6XbgdDpY-w48hMd) - Kai Jäger
 
 ## People :ok_woman:
