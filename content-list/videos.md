@@ -19,14 +19,14 @@
 - [ ] [What I learned teaching programming to 150 beginners](https://www.youtube.com/watch?v=YuezRMnwyeI&index=7&list=PL37ZVnwpeshH37NxpV6XbgdDpY-w48hMd) - Etiene da Cruz Dalcol
 - [ ] [Unconscious Bias: we're all guilty](https://www.youtube.com/watch?v=5mcyUUf20Ng&index=17&list=PL37ZVnwpeshH37NxpV6XbgdDpY-w48hMd) - Lieke Boon
 - [ ] [I Think I Know What You’re Talking About, But I’m Not Sure ](https://www.youtube.com/watch?v=aQSz4KnSFvk&index=23&list=PL37ZVnwpeshH37NxpV6XbgdDpY-w48hMd) - Jennifer Wong
-- [ ] [JavaScript Community: The Good Parts](https://www.youtube.com/watch?v=2ypYniQa7_o) - Brenna O'Brien
+- [x] [JavaScript Community: The Good Parts](https://www.youtube.com/watch?v=2ypYniQa7_o) - Brenna O'Brien
 - [ ] [Imposter Syndrome](https://vimeo.com/96430136) - Angelina Fabbro
 - [ ] [Level Up! Test-driving your personal development](http://confreaks.tv/videos/scotlandruby2011-level-up-test-driving-your-personal-development) - Alan Gardner
 - [ ] [Let's talk... mental health](https://vimeo.com/96477735) - Amanda O'Connell
-- [ ] [How I went from forklift driver to developer in 9 months](https://www.youtube.com/) -watch?v=V6OsD60ne0w) - Lewis Cowper
+- [x] [How I went from forklift driver to developer in 9 months](https://www.youtube.com/) -watch?v=V6OsD60ne0w) - Lewis Cowper
 - [ ] [Where Are All The Women?](http://confreaks.tv/videos/scotlandruby2011-where-are-all-the-women) - Erin O'Brien
 - [ ] [Burnout](https://vimeo.com/67476670) - Erin O'Brien
-- [ ] [A Talk About Nothing](https://www.youtube.com/watch?v=xl8OWGbZTsM) - Lena Reinhard
+- [x] [A Talk About Nothing](https://www.youtube.com/watch?v=xl8OWGbZTsM) - Lena Reinhard
 - [ ] [You don't have to be the best to get stuff done](https://www.youtube.com/watch?v=43BdvIDdZA4) - Philip Roberts
 
 
