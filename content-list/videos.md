@@ -43,6 +43,7 @@
 ## Containers :question:
 
 - [ ] [Building reproducible dev environments with Docker](http://2015.theleaddeveloper.com/videos?s=building-reproducible-dev-environments-with-docker) - Graham Gilchrist
+- [ ] [Containerized Applications with Docker](https://www.youtube.com/watch?v=z-rqvNtzm60) - Laura Frank
 
 ## Security :lock:
 
