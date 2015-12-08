@@ -48,6 +48,7 @@
 - [ ] [Programming building blocks](https://www.youtube.com/watch?v=YPCdgg99Pws) - Amy Wibowo and Matt Baker
 - [ ] [Look ma no backend](https://vimeo.com/68987290) - Gregor Martynus
 - [ ] [UX of Stairs: When Simple Tasks Aren't So Simple](https://www.youtube.com/watch?v=TfiNP8iWDSo) - Greg Tarnoff
+- [ ] [Your Body Language Shapes Who You Are (watch until end!)])http://www.ted.com/talks/amy_cuddy_your_body_language_shapes_who_you_are)
 
 
 ## Testing :eyes:
