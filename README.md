@@ -29,7 +29,7 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [ ] Write a Christmas list
 - [ ] Start to buy Christmas presents for people
 - [ ] Attend a codebar event
-- [ ] Add some more guides to the "to do" list
+- [x] Add some more guides to the "to do" list
 - [ ] Write weekly personal goals summary
 
 ### Things I'll Do This Month: December 2015
