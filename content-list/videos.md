@@ -19,6 +19,7 @@
 - [ ] [What I learned teaching programming to 150 beginners](https://www.youtube.com/watch?v=YuezRMnwyeI&index=7&list=PL37ZVnwpeshH37NxpV6XbgdDpY-w48hMd) - Etiene da Cruz Dalcol
 - [ ] [Unconscious Bias: we're all guilty](https://www.youtube.com/watch?v=5mcyUUf20Ng&index=17&list=PL37ZVnwpeshH37NxpV6XbgdDpY-w48hMd) - Lieke Boon
 - [ ] [I Think I Know What You’re Talking About, But I’m Not Sure ](https://www.youtube.com/watch?v=aQSz4KnSFvk&index=23&list=PL37ZVnwpeshH37NxpV6XbgdDpY-w48hMd) - Jennifer Wong
+- [ ] [JavaScript Community: The Good Parts](https://www.youtube.com/watch?v=2ypYniQa7_o) - Brenna O'Brien
 
 ## JavaScrippies :tada:
 
