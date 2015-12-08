@@ -47,3 +47,4 @@
 ## Security :lock:
 
 - [ ] [Practical web security](http://2015.theleaddeveloper.com/videos?s=practical-web-security) - Junade Ali
+- [ ] [Secure Crypto for Browser Based Apps](https://www.youtube.com/watch?v=xSIt6h_yjH0) - Brennan Novak
