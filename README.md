@@ -19,7 +19,7 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 
 ## Things I'll Do This Week:
 - [ ] Write a Pull Request Guide for the [Hoodie Editorial Team](http://github.com/hoodiehq/editorial)
-- [ ] Schedule some tweets for YFPR
+- [x] Schedule some tweets for YFPR
 - [ ] Read Chapters 8 & 9 of [Exploring JS (ES6)](http://exploringjs.com)
 - [ ] Watch 2 Conference Talks
 - [ ] Get to level 18 in Fallout 4
