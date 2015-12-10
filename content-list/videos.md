@@ -41,7 +41,7 @@
 - [ ] [Live coding in JS](https://vimeo.com/69077919) - Jason Frame
 - [ ] [Build Games with JavaScript and Phaser](https://vimeo.com/96430137) - Gabe Hollombe
 - [ ] [Beyond the AST - A Fr**ework for Learnable Programming](https://vimeo.com/96430141) - Jason Frame
-- [ ] [Help, I'm stuck in an event-loop](https://vimeo.com/96425312) - Philip Roberts
+- [x] [Help, I'm stuck in an event-loop](https://vimeo.com/96425312) - Philip Roberts
 - [ ] [Hyperaudio - Making Audio a First Class Citizen of the Web](https://vimeo.com/69612769) - Mark Boas
 - [ ] [Enemy of the state: An introduction to Functional Reactive Programming and Bacon.js](https://vimeo.com/68987289) - Philip Roberts
 - [ ] [Acceptable in the 80s - Revisiting Microworlds](https://www.youtube.com/watch?v=mFo6eyEsDoA) - Jason Frame
