@@ -23,12 +23,12 @@
 - [ ] [Imposter Syndrome](https://vimeo.com/96430136) - Angelina Fabbro
 - [ ] [Level Up! Test-driving your personal development](http://confreaks.tv/videos/scotlandruby2011-level-up-test-driving-your-personal-development) - Alan Gardner
 - [ ] [Let's talk... mental health](https://vimeo.com/96477735) - Amanda O'Connell
-- [x] [How I went from forklift driver to developer in 9 months](https://www.youtube.com/) -watch?v=V6OsD60ne0w) - Lewis Cowper
+- [x] [How I went from forklift driver to developer in 9 months](https://www.youtube.com/watch?v=V6OsD60ne0w) - Lewis Cowper
 - [ ] [Where Are All The Women?](http://confreaks.tv/videos/scotlandruby2011-where-are-all-the-women) - Erin O'Brien
 - [ ] [Burnout](https://vimeo.com/67476670) - Erin O'Brien
 - [x] [A Talk About Nothing](https://www.youtube.com/watch?v=xl8OWGbZTsM) - Lena Reinhard
 - [ ] [You don't have to be the best to get stuff done](https://www.youtube.com/watch?v=43BdvIDdZA4) - Philip Roberts
-
+- [ ] [Your Body Language Shapes Who You Are](http://www.ted.com/talks/amy_cuddy_your_body_language_shapes_who_you_are)
 
 ## JavaScrippies :tada:
 
@@ -43,13 +43,11 @@
 - [ ] [Beyond the AST - A Fr**ework for Learnable Programming](https://vimeo.com/96430141) - Jason Frame
 - [ ] [Help, I'm stuck in an event-loop](https://vimeo.com/96425312) - Philip Roberts
 - [ ] [Hyperaudio - Making Audio a First Class Citizen of the Web](https://vimeo.com/69612769) - Mark Boas
-- [ ] [Enemy of the state: An introduction to Functional Reactive Programming and Bacon.js](https://vimeo.com/68987289) Philip Roberts
+- [ ] [Enemy of the state: An introduction to Functional Reactive Programming and Bacon.js](https://vimeo.com/68987289) - Philip Roberts
 - [ ] [Acceptable in the 80s - Revisiting Microworlds](https://www.youtube.com/watch?v=mFo6eyEsDoA) - Jason Frame
 - [ ] [Programming building blocks](https://www.youtube.com/watch?v=YPCdgg99Pws) - Amy Wibowo and Matt Baker
 - [ ] [Look ma no backend](https://vimeo.com/68987290) - Gregor Martynus
 - [ ] [UX of Stairs: When Simple Tasks Aren't So Simple](https://www.youtube.com/watch?v=TfiNP8iWDSo) - Greg Tarnoff
-- [ ] [Your Body Language Shapes Who You Are (watch until end!)])http://www.ted.com/talks/amy_cuddy_your_body_language_shapes_who_you_are)
-
 
 ## Testing :eyes:
 
