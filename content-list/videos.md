@@ -3,7 +3,7 @@
 ## Computers :computer:
 
 - [x] [So how does the browser actually render a website](https://www.youtube.com/watch?v=SmE4OwHztCc&index=27&list=PL37ZVnwpeshH37NxpV6XbgdDpY-w48hMd) - Ryan Seddon
-- [ ] [What it’s like to live on the Edge](https://www.youtube.com/watch?v=Ju8x3z1LuCg&index=28&list=PL37ZVnwpeshH37NxpV6XbgdDpY-w48hMd) - Kai Jäger
+- [x] [What it’s like to live on the Edge](https://www.youtube.com/watch?v=Ju8x3z1LuCg&index=28&list=PL37ZVnwpeshH37NxpV6XbgdDpY-w48hMd) - Kai Jäger
 
 ## People :ok_woman:
 
@@ -47,7 +47,7 @@
 - [ ] [Acceptable in the 80s - Revisiting Microworlds](https://www.youtube.com/watch?v=mFo6eyEsDoA) - Jason Frame
 - [ ] [Programming building blocks](https://www.youtube.com/watch?v=YPCdgg99Pws) - Amy Wibowo and Matt Baker
 - [ ] [Look ma no backend](https://vimeo.com/68987290) - Gregor Martynus
-- [ ] [UX of Stairs: When Simple Tasks Aren't So Simple](https://www.youtube.com/watch?v=TfiNP8iWDSo) - Greg Tarnoff
+- [x] [UX of Stairs: When Simple Tasks Aren't So Simple](https://www.youtube.com/watch?v=TfiNP8iWDSo) - Greg Tarnoff
 
 ## Testing :eyes:
 
