@@ -13,22 +13,20 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 5. Work less
 6. Be kind
 
-# December 7th, 2015
+# December 14th, 2015
 
-### This Week's Goal: Work less. :sleeping:
+### This Week's Goal: :ghost:
 
 ## Things I'll Do This Week:
 - [ ] Write a Pull Request Guide for the [Hoodie Editorial Team](http://github.com/hoodiehq/editorial)
-- [x] Schedule some tweets for YFPR
-- [ ] Read Chapters 8 & 9 of [Exploring JS (ES6)](http://exploringjs.com)
-- [x] Watch 2 Conference Talks
+- [ ] Schedule some tweets for YFPR
+- [ ] Read Chapter 2 of [Speaking JS](http://speakingjs.com)
+- [ ] Watch 2 Conference Talks
 - [ ] Get to level 18 in Fallout 4
-- [x] Go through all of my notes from BeyondConf
 - [ ] Compile a list of potential meetups I could talk about Your First PR, at
-- [x] Write a Christmas list
-- [x] Start to buy Christmas presents for people
-- [ ] Attend a codebar event
-- [x] Add some more guides to the "to do" list
+- [ ] Buy the remaining Christmas presents ASAP
+- [ ] Get to 21/24 PR's for 24PR
+- [ ] Schedule time off for Christmas
 - [ ] Write weekly personal goals summary
 
 ### Things I'll Do This Month: December 2015
