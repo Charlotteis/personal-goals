@@ -24,9 +24,9 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [ ] Watch 2 Conference Talks
 - [ ] Get to level 18 in Fallout 4
 - [ ] Compile a list of potential meetups I could talk about Your First PR, at
-- [ ] Buy the remaining Christmas presents ASAP
+- [x] Buy the remaining Christmas presents ASAP
 - [ ] Get to 21/24 PR's for 24PR
-- [ ] Schedule time off for Christmas
+- [x] Schedule time off for Christmas
 - [ ] Write weekly personal goals summary
 
 ### Things I'll Do This Month: December 2015
