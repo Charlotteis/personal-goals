@@ -49,6 +49,21 @@
 - [ ] [Look ma no backend](https://vimeo.com/68987290) - Gregor Martynus
 - [x] [UX of Stairs: When Simple Tasks Aren't So Simple](https://www.youtube.com/watch?v=TfiNP8iWDSo) - Greg Tarnoff
 
+## Node.js :sparkles:
+
+- [ ] [Node.js and npm by Numbers](https://www.youtube.com/watch?v=5ikjwX2ur2U&list=PLfMzBWSH11xYjL8oFumSfzOf6-kr8_t-o&index=4) - Ashley Williams
+- [ ] [Streams and you, a love story](https://www.youtube.com/watch?v=TyXgy5Wm948&list=PLfMzBWSH11xYjL8oFumSfzOf6-kr8_t-o&index=6) - Calvin Metcalf
+- [ ] [Getting a Handle on your Dependencies](https://www.youtube.com/watch?v=2_aclLr3o5s&list=PLfMzBWSH11xYjL8oFumSfzOf6-kr8_t-o&index=9) - Dan Silivestru
+- [ ] [FrontendFS: Creating a Filesystem for Web Development Using Node.js](https://www.youtube.com/watch?v=SG10bZeYi6k&list=PLfMzBWSH11xYjL8oFumSfzOf6-kr8_t-o&index=13) - Clay Smith
+- [ ] [Internet of Cats](https://www.youtube.com/watch?v=cEIYSOxDiqE&list=PLfMzBWSH11xYjL8oFumSfzOf6-kr8_t-o&index=17) - Rachel White
+- [ ] [Getting Sassy with Node.js](https://www.youtube.com/watch?v=oVmdBsbZKAs&list=PLfMzBWSH11xYjL8oFumSfzOf6-kr8_t-o&index=26) - David Khourshid
+- [ ] [Plumbing the depths of Handlebars](https://www.youtube.com/watch?v=hlD1Sf22PF0&list=PLfMzBWSH11xYjL8oFumSfzOf6-kr8_t-o&index=29) - Ryan Lewis
+- [ ] [Building Twitter Bots in Node.js](https://www.youtube.com/watch?v=xkNOKSNSoVI&list=PLfMzBWSH11xYjL8oFumSfzOf6-kr8_t-o&index=33) - Phillip James
+- [ ] [Building Interactive npm Command Line Modules -- All The Things](https://www.youtube.com/watch?v=QLat0Y3jqUA&list=PLfMzBWSH11xYjL8oFumSfzOf6-kr8_t-o&index=62) - Irina Shestak
+- [ ] [JavaScript, For Science!](https://www.youtube.com/watch?v=_3oykSKOito&list=PLfMzBWSH11xYjL8oFumSfzOf6-kr8_t-o&index=63) - Max Ogden
+- [ ] [Node.js While Crafting - Make Textile to Compute!](https://www.youtube.com/watch?v=lLvRmjVVkTY) - Mariko Kosaka
+- [ ] [NPM Everywhere](https://www.youtube.com/watch?v=d_5SXW3a1-I) - Mike MacCana
+
 ## Testing :eyes:
 
 - [ ] [Adaptive Testing](http://2015.theleaddeveloper.com/videos?s=adaptive-testing) - Beccy Stafford and Preet Sandhu
