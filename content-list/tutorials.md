@@ -22,3 +22,4 @@
 - [ ] [AJAX Vanilla JS](https://developer.mozilla.org/en-US/docs/AJAX/Getting_Started)
 - [ ] [AJAX jQuery](https://learn.jquery.com/ajax/)
 - [ ] [Learning React with Thinkster](https://thinkster.io/getting-started-with-react)
+- [ ] [Bash Academy](http://guide.bash.academy)
