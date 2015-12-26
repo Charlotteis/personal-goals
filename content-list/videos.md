@@ -48,6 +48,7 @@
 - [ ] [Programming building blocks](https://www.youtube.com/watch?v=YPCdgg99Pws) - Amy Wibowo and Matt Baker
 - [ ] [Look ma no backend](https://vimeo.com/68987290) - Gregor Martynus
 - [x] [UX of Stairs: When Simple Tasks Aren't So Simple](https://www.youtube.com/watch?v=TfiNP8iWDSo) - Greg Tarnoff
+- [ ] [Functional programming and curry cooking in JS](https://www.youtube.com/watch?v=6Qx5ZAbfqjo) - Stefanie Schirmer
 
 ## Node.js :sparkles:
 
