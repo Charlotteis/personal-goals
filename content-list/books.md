@@ -7,7 +7,7 @@
 - [ ] [Speaking JS (ES5)](http://speakingjs.com/)
 - [ ] [Front-End Developer Handbook](http://www.frontendhandbook.com/index.html)
 - [ ] [Mostly Adequate Guide to Functional JavaScript](https://github.com/MostlyAdequate/mostly-adequate-guide)
-- [ ] [Up and Going - YDKJS](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/README.md#you-dont-know-js-up--going)
+- [x] [Up and Going - YDKJS](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/README.md#you-dont-know-js-up--going)
 - [ ] [Scopes & Closures - YDKJS](https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20&%20closures/README.md#you-dont-know-js-scope--closures)
 - [ ] [_this_ & Object Prototypes -YDKJS](https://github.com/getify/You-Dont-Know-JS/blob/master/this%20&%20object%20prototypes/README.md#you-dont-know-js-this--object-prototypes)
 - [ ] [Types & Grammar - YDKJS](https://github.com/getify/You-Dont-Know-JS/blob/master/types%20&%20grammar/README.md#you-dont-know-js-types--grammar)
