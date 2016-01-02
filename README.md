@@ -36,11 +36,11 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [ ] Work Less
 
 ### Things I'll do in the Future :rocket:
-- [ ] Learn React
+- [ ] Learn Rust
 - [ ] Contribute code to Hoodie
 - [ ] Find more places to talk about Your First PR
 - [ ] Learn ES6
-- [ ] Play with [p5.js](http://p5js.org/)
+- [ ] Get better at JavaScript fundamentals
 - [ ] Learn how to be a codebar.io coach and start attending their events
 
 ### Backlog:
