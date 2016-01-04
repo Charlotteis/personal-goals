@@ -24,6 +24,8 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [ ] Read 'Trans: A Memoir'
 - [ ] Start to plan [redacted] conf post
 - [ ] Write weekly personal goals summary
+- [ ] Two Exercism challenges
+- [ ] Pixel Art Char
 
 ### Things I'll Do This Month: January 2015
 - [ ] Focus on my YFPR talk
