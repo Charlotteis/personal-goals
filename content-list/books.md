@@ -15,3 +15,4 @@
 - [ ] [ES6 & Beyond - YDKJS](https://github.com/getify/You-Dont-Know-JS/blob/master/es6%20&%20beyond/README.md#you-dont-know-js-es6--beyond)
 - [ ] [Rust Lang Book](https://doc.rust-lang.org/stable/book/)
 - [ ] [interemezzOS Book](intermezzos.github.io/book)
+- [ ] [Learning Rust With Entirely Too Many Linked Lists](http://cglab.ca/~abeinges/blah/too-many-lists/book/)
