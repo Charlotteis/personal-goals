@@ -16,3 +16,4 @@
 - [ ] [Rust Lang Book](https://doc.rust-lang.org/stable/book/)
 - [ ] [interemezzOS Book](intermezzos.github.io/book)
 - [ ] [Learning Rust With Entirely Too Many Linked Lists](http://cglab.ca/~abeinges/blah/too-many-lists/book/)
+- [ ] [Guide to learning React](https://github.com/petehunt/react-howto)
