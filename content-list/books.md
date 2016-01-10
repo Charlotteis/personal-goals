@@ -17,3 +17,4 @@
 - [ ] [interemezzOS Book](intermezzos.github.io/book)
 - [ ] [Learning Rust With Entirely Too Many Linked Lists](http://cglab.ca/~abeinges/blah/too-many-lists/book/)
 - [ ] [Guide to learning React](https://github.com/petehunt/react-howto)
+- [ ] [How to be a programmer](https://github.com/braydie/HowToBeAProgrammer/blob/master/README.md)
